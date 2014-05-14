@@ -1,4 +1,4 @@
-num_file = file("test18.txt","r")
+num_file = file("test67.txt","r")
 num_line = num_file.readlines()
 
 for i in xrange(len(num_line)):
